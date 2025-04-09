@@ -23,7 +23,7 @@
 - **Frontend:** Angular, React, Next.js  
 - **Backend:** NestJS, Node.js, Express  
 - **Database:** PostgreSQL, MongoDB  
-- **Cloud:** AWS (EC2, S3, RDS), Firebase  
+- **Cloud:** AWS (EC2, S3, RDS), Firebase and Supabase
 - **DevOps:** GitHub Actions, Docker  
 - **Other:** TypeScript, REST APIs, GraphQL  
 
