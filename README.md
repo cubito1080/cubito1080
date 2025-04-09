@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jeronimo /h1>
+<h1 align="center">Hi 👋, I'm jeronimo </h1>
 <h3 align="center">Full-stack Developer | Angular | React | NestJS | MERN | Cloud Enthusiast</h3>
 
 <p align="center">
@@ -30,9 +30,9 @@
 ---
 
 ### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cubito1080&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cubito1080&theme=tokyonight" />
 </p>
+
